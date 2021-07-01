@@ -3,7 +3,7 @@
     "api-oas-checker": "api-oas-checker"
   },
   "dependencies": {
-    "@stoplight/spectral": "^5.9.1",
+    "@stoplight/spectral": "^6.0.0-alpha3",
     "axios": "^0.21.1",
     "bootstrap-italia": "^1.4.3",
     "classnames": "^2.3.1",
